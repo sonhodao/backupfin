@@ -1,0 +1,2158 @@
+.ss-icon,
+.ss-icon.ss-social-circle,
+[class*=" ss-"].right:after,
+[class*=" ss-"].ss-social-circle.right:after,
+[class*=" ss-"].ss-social-circle:before,
+[class*=" ss-"]:before,
+[class^=ss-].right:after,
+[class^=ss-].ss-social-circle.right:after,
+[class^=ss-].ss-social-circle:before,
+[class^=ss-]:before {
+    font-family: SSSocialCircle;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    -webkit-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased
+}
+
+.ss-icon,
+.ss-icon.ss-social-regular,
+[class*=" ss-"].right:after,
+[class*=" ss-"].ss-social-regular.right:after,
+[class*=" ss-"].ss-social-regular:before,
+[class*=" ss-"]:before,
+[class^=ss-].right:after,
+[class^=ss-].ss-social-regular.right:after,
+[class^=ss-].ss-social-regular:before,
+[class^=ss-]:before {
+    font-family: SSSocialRegular;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    -webkit-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased
+}
+
+.ss-facebook.right:after,
+.ss-facebook:before {
+    content: "\F610"
+}
+
+.ss-twitter.right:after,
+.ss-twitter:before {
+    content: "\F611"
+}
+
+.ss-linkedin.right:after,
+.ss-linkedin:before {
+    content: "\F612"
+}
+
+.ss-googleplus.right:after,
+.ss-googleplus:before {
+    content: "\F613"
+}
+
+.ss-appdotnet.right:after,
+.ss-appdotnet:before {
+    content: "\F614"
+}
+
+.ss-zerply.right:after,
+.ss-zerply:before {
+    content: "\F615"
+}
+
+.ss-reddit.right:after,
+.ss-reddit:before {
+    content: "\F616"
+}
+
+.ss-steam.right:after,
+.ss-steam:before {
+    content: "\F617"
+}
+
+.ss-tumblr.right:after,
+.ss-tumblr:before {
+    content: "\F620"
+}
+
+.ss-wordpress.right:after,
+.ss-wordpress:before {
+    content: "\F621"
+}
+
+.ss-blogger.right:after,
+.ss-blogger:before {
+    content: "\F622"
+}
+
+.ss-posterous.right:after,
+.ss-posterous:before {
+    content: "\F623"
+}
+
+.ss-quora.right:after,
+.ss-quora:before {
+    content: "\F624"
+}
+
+.ss-youtube.right:after,
+.ss-youtube:before {
+    content: "\F630"
+}
+
+.ss-vimeo.right:after,
+.ss-vimeo:before {
+    content: "\F631"
+}
+
+.ss-vine.right:after,
+.ss-vine:before {
+    content: "\F633"
+}
+
+.ss-letterboxd.right:after,
+.ss-letterboxd:before {
+    content: "\F632"
+}
+
+.ss-flickr.right:after,
+.ss-flickr:before {
+    content: "\F640"
+}
+
+.ss-instagram.right:after,
+.ss-instagram:before {
+    content: "\F641"
+}
+
+.ss-500px.right:after,
+.ss-500px:before {
+    content: "\F642"
+}
+
+.ss-etsy.right:after,
+.ss-etsy:before {
+    content: "\F682"
+}
+
+.ss-pinterest.right:after,
+.ss-pinterest:before {
+    content: "\F650"
+}
+
+.ss-svpply.right:after,
+.ss-svpply:before {
+    content: "\F651"
+}
+
+.ss-readmill.right:after,
+.ss-readmill:before {
+    content: "\F652"
+}
+
+.ss-dropbox.right:after,
+.ss-dropbox:before {
+    content: "\F653"
+}
+
+.ss-pinboard.right:after,
+.ss-pinboard:before {
+    content: "\F654"
+}
+
+.ss-delicious.right:after,
+.ss-delicious:before {
+    content: "\F655"
+}
+
+.ss-dribbble.right:after,
+.ss-dribbble:before {
+    content: "\F660"
+}
+
+.ss-behance.right:after,
+.ss-behance:before {
+    content: "\F661"
+}
+
+.ss-github.right:after,
+.ss-github:before {
+    content: "\F670"
+}
+
+.ss-octocat.right:after,
+.ss-octocat:before {
+    content: "\F671"
+}
+
+.ss-stackoverflow.right:after,
+.ss-stackoverflow:before {
+    content: "\F672"
+}
+
+.ss-paypal.right:after,
+.ss-paypal:before {
+    content: "\F680"
+}
+
+.ss-kickstarter.right:after,
+.ss-kickstarter:before {
+    content: "\F681"
+}
+
+.ss-foursquare.right:after,
+.ss-foursquare:before {
+    content: "\F690"
+}
+
+.ss-yelp.right:after,
+.ss-yelp:before {
+    content: "\F691"
+}
+
+.ss-skype.right:after,
+.ss-skype:before {
+    content: "\F6A0"
+}
+
+.ss-rdio.right:after,
+.ss-rdio:before {
+    content: "\F6B0"
+}
+
+.ss-spotify.right:after,
+.ss-spotify:before {
+    content: "\F6B1"
+}
+
+.ss-lastfm.right:after,
+.ss-lastfm:before {
+    content: "\F6B2"
+}
+
+.ss-soundcloud.right:after,
+.ss-soundcloud:before {
+    content: "\F6B3"
+}
+
+.ss-apple.right:after,
+.ss-apple:before {
+    content: "\F8FF"
+}
+
+.ss-microsoft.right:after,
+.ss-microsoft:before {
+    content: "\F6F1"
+}
+
+.ss-windows.right:after,
+.ss-windows:before {
+    content: "\F6F2"
+}
+
+.ss-android.right:after,
+.ss-android:before {
+    content: "\F6F3"
+}
+
+.ss-blackberry.right:after,
+.ss-blackberry:before {
+    content: "\F6F4"
+}
+
+.ss-fivehundredpx.right:after,
+.ss-fivehundredpx:before {
+    content: "\F642"
+}
+
+html:hover [class^=ss-] {
+    -ms-zoom: 1
+}
+
+.ss-icon,
+.ss-icon.ss-standard,
+[class*=" ss-"].right:after,
+[class*=" ss-"].ss-standard.right:after,
+[class*=" ss-"].ss-standard:before,
+[class*=" ss-"]:before,
+[class^=ss-].right:after,
+[class^=ss-].ss-standard.right:after,
+[class^=ss-].ss-standard:before,
+[class^=ss-]:before {
+    font-family: SSStandard;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    -webkit-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased
+}
+
+[class*=" ss-"].right:before,
+[class^=ss-].right:before {
+    display: none;
+    content: ""
+}
+
+.ss-halfheart.right:after,
+.ss-halfheart:before {
+    content: "\E1A0"
+}
+
+.ss-halfstar.right:after,
+.ss-halfstar:before {
+    content: "\E1A1"
+}
+
+.ss-fill.right:after,
+.ss-fill:before {
+    content: "\E240"
+}
+
+.ss-stroke.right:after,
+.ss-stroke:before {
+    content: "\E241"
+}
+
+.ss-rss.right:after,
+.ss-rss:before {
+    content: "\E310"
+}
+
+.ss-facetime.right:after,
+.ss-facetime:before {
+    content: "\E320"
+}
+
+.ss-reply.right:after,
+.ss-reply:before {
+    content: "\21A9"
+}
+
+.ss-send.right:after,
+.ss-send:before {
+    content: "\E350"
+}
+
+.ss-ellipsischat.right:after,
+.ss-ellipsischat:before {
+    content: "\E399"
+}
+
+.ss-ellipsis.right:after,
+.ss-ellipsis:before {
+    content: "\2026"
+}
+
+.ss-femaleuser.right:after,
+.ss-femaleuser:before {
+    content: "\1F467"
+}
+
+.ss-dollarsign.right:after,
+.ss-dollarsign:before {
+    content: "\1F4B2"
+}
+
+.ss-buildings.right:after,
+.ss-buildings:before {
+    content: "\1F3E2"
+}
+
+.ss-warehouse.right:after,
+.ss-warehouse:before {
+    content: "\E602"
+}
+
+.ss-map.right:after,
+.ss-map:before {
+    content: "\E673"
+}
+
+.ss-pin.right:after,
+.ss-pin:before {
+    content: "\1F4CD"
+}
+
+.ss-mic.right:after,
+.ss-mic:before {
+    content: "\1F3A4"
+}
+
+.ss-openbook.right:after,
+.ss-openbook:before {
+    content: "\1F4D6"
+}
+
+.ss-grid.right:after,
+.ss-grid:before {
+    content: "\E9A0"
+}
+
+.ss-filter.right:after,
+.ss-filter:before {
+    content: "\E9B0"
+}
+
+.ss-emptybattery.right:after,
+.ss-emptybattery:before {
+    content: "\EA13"
+}
+
+.ss-transfer.right:after,
+.ss-transfer:before {
+    content: "\21C6"
+}
+
+.ss-wifi.right:after,
+.ss-wifi:before {
+    content: "\EB84"
+}
+
+.ss-connection.right:after,
+.ss-connection:before {
+    content: "\EB85"
+}
+
+.ss-text.right:after,
+.ss-text:before {
+    content: "\ED00"
+}
+
+.ss-font.right:after,
+.ss-font:before {
+    content: "\ED01"
+}
+
+.ss-list.right:after,
+.ss-list:before {
+    content: "\ED50"
+}
+
+.ss-layout.right:after,
+.ss-layout:before {
+    content: "\EDA0"
+}
+
+.ss-action.right:after,
+.ss-action:before {
+    content: "\EE00"
+}
+
+.ss-redirect.right:after,
+.ss-redirect:before {
+    content: "\21AA"
+}
+
+.ss-settings.right:after,
+.ss-settings:before {
+    content: "\2699"
+}
+
+.ss-dashboard.right:after,
+.ss-dashboard:before {
+    content: "\F000"
+}
+
+.ss-calendar.right:after,
+.ss-calendar:before {
+    content: "\1F4C5"
+}
+
+.ss-addcalendar.right:after,
+.ss-addcalendar:before {
+    content: "\F070"
+}
+
+.ss-removecalendar.right:after,
+.ss-removecalendar:before {
+    content: "\F071"
+}
+
+.ss-checkcalendar.right:after,
+.ss-checkcalendar:before {
+    content: "\F072"
+}
+
+.ss-deletecalendar.right:after,
+.ss-deletecalendar:before {
+    content: "\F073"
+}
+
+.ss-flask.right:after,
+.ss-flask:before {
+    content: "\F4C0"
+}
+
+.ss-directup.right:after,
+.ss-directup:before {
+    content: "\25B4"
+}
+
+.ss-directright.right:after,
+.ss-directright:before {
+    content: "\25B9"
+}
+
+.ss-dropdown.right:after,
+.ss-dropdown:before {
+    content: "\25BE"
+}
+
+.ss-directleft.right:after,
+.ss-directleft:before {
+    content: "\25C3"
+}
+
+.ss-volumelow.right:after,
+.ss-volumelow:before {
+    content: "\1F509"
+}
+
+.ss-volumehigh.right:after,
+.ss-volumehigh:before {
+    content: "\1F50A"
+}
+
+.ss-batteryhigh.right:after,
+.ss-batteryhigh:before {
+    content: "\EA10"
+}
+
+.ss-batterymedium.right:after,
+.ss-batterymedium:before {
+    content: "\EA11"
+}
+
+.ss-batterylow.right:after,
+.ss-batterylow:before {
+    content: "\EA12"
+}
+
+.ss-batteryempty.right:after,
+.ss-batteryempty:before {
+    content: "\EA13"
+}
+
+.ss-clouddownload.right:after,
+.ss-clouddownload:before {
+    content: "\EB00"
+}
+
+.ss-cloudupload.right:after,
+.ss-cloudupload:before {
+    content: "\EB40"
+}
+
+.ss-calendaradd.right:after,
+.ss-calendaradd:before {
+    content: "\F070"
+}
+
+.ss-calendarremove.right:after,
+.ss-calendarremove:before {
+    content: "\F071"
+}
+
+.ss-calendarcheck.right:after,
+.ss-calendarcheck:before {
+    content: "\F072"
+}
+
+.ss-calendardelete.right:after,
+.ss-calendardelete:before {
+    content: "\F073"
+}
+
+.ss-icon,
+.ss-icon.ss-gizmo,
+[class*=" ss-"].right:after,
+[class*=" ss-"].ss-gizmo.right:after,
+[class*=" ss-"].ss-gizmo:before,
+[class*=" ss-"]:before,
+[class^=ss-].right:after,
+[class^=ss-].ss-gizmo.right:after,
+[class^=ss-].ss-gizmo:before,
+[class^=ss-]:before {
+    font-family: SSGizmo;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    white-space: nowrap;
+    -webkit-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased
+}
+
+[class*=" ss-"].right:before,
+[class*=" ss-"].ss-gizmo.right:before,
+[class^=ss-].right:before {
+    display: none;
+    content: ""
+}
+
+.ss-cursor.right:after,
+.ss-cursor:before {
+    content: "\E001"
+}
+
+.ss-crosshair.right:after,
+.ss-crosshair:before {
+    content: "\2316"
+}
+
+.ss-search.right:after,
+.ss-search:before {
+    content: "\1F50E"
+}
+
+.ss-zoomin.right:after,
+.ss-zoomin:before {
+    content: "\E002"
+}
+
+.ss-zoomout.right:after,
+.ss-zoomout:before {
+    content: "\E003"
+}
+
+.ss-view.right:after,
+.ss-view:before {
+    content: "\1F440"
+}
+
+.ss-attach.right:after,
+.ss-attach:before {
+    content: "\1F4CE"
+}
+
+.ss-link.right:after,
+.ss-link:before {
+    content: "\1F517"
+}
+
+.ss-unlink.right:after,
+.ss-unlink:before {
+    content: "\E011"
+}
+
+.ss-move.right:after,
+.ss-move:before {
+    content: "\E070"
+}
+
+.ss-write.right:after,
+.ss-write:before {
+    content: "\270E"
+}
+
+.ss-writingdisabled.right:after,
+.ss-writingdisabled:before {
+    content: "\E071"
+}
+
+.ss-erase.right:after,
+.ss-erase:before {
+    content: "\2710"
+}
+
+.ss-compose.right:after,
+.ss-compose:before {
+    content: "\1F4DD"
+}
+
+.ss-lock.right:after,
+.ss-lock:before {
+    content: "\1F512"
+}
+
+.ss-unlock.right:after,
+.ss-unlock:before {
+    content: "\1F513"
+}
+
+.ss-key.right:after,
+.ss-key:before {
+    content: "\1F511"
+}
+
+.ss-backspace.right:after,
+.ss-backspace:before {
+    content: "\232B"
+}
+
+.ss-ban.right:after,
+.ss-ban:before {
+    content: "\1F6AB"
+}
+
+.ss-smoking.right:after,
+.ss-smoking:before {
+    content: "\1F6AC"
+}
+
+.ss-nosmoking.right:after,
+.ss-nosmoking:before {
+    content: "\1F6AD"
+}
+
+.ss-trash.right:after,
+.ss-trash:before {
+    content: "\E0D0"
+}
+
+.ss-target.right:after,
+.ss-target:before {
+    content: "\25CE"
+}
+
+.ss-tag.right:after,
+.ss-tag:before {
+    content: "\E100"
+}
+
+.ss-bookmark.right:after,
+.ss-bookmark:before {
+    content: "\1F516"
+}
+
+.ss-flag.right:after,
+.ss-flag:before {
+    content: "\2691"
+}
+
+.ss-like.right:after,
+.ss-like:before {
+    content: "\1F44D"
+}
+
+.ss-dislike.right:after,
+.ss-dislike:before {
+    content: "\1F44E"
+}
+
+.ss-heart.right:after,
+.ss-heart:before {
+    content: "\2665"
+}
+
+.ss-star.right:after,
+.ss-star:before {
+    content: "\22C6"
+}
+
+.ss-sample.right:after,
+.ss-sample:before {
+    content: "\E200"
+}
+
+.ss-crop.right:after,
+.ss-crop:before {
+    content: "\E201"
+}
+
+.ss-layers.right:after,
+.ss-layers:before {
+    content: "\E202"
+}
+
+.ss-layergroup.right:after,
+.ss-layergroup:before {
+    content: "\E207"
+}
+
+.ss-pen.right:after,
+.ss-pen:before {
+    content: "\2712"
+}
+
+.ss-bezier.right:after,
+.ss-bezier:before {
+    content: "\E2A0"
+}
+
+.ss-pixels.right:after,
+.ss-pixels:before {
+    content: "\E2A1"
+}
+
+.ss-phone.right:after,
+.ss-phone:before {
+    content: "\1F4DE"
+}
+
+.ss-phonedisabled.right:after,
+.ss-phonedisabled:before {
+    content: "\E300"
+}
+
+.ss-touchtonephone.right:after,
+.ss-touchtonephone:before {
+    content: "\260F"
+}
+
+.ss-mail.right:after,
+.ss-mail:before {
+    content: "\2709"
+}
+
+.ss-inbox.right:after,
+.ss-inbox:before {
+    content: "\1F4E5"
+}
+
+.ss-outbox.right:after,
+.ss-outbox:before {
+    content: "\1F4E4"
+}
+
+.ss-chat.right:after,
+.ss-chat:before {
+    content: "\1F4AC"
+}
+
+.ss-user.right:after,
+.ss-user:before {
+    content: "\1F464"
+}
+
+.ss-users.right:after,
+.ss-users:before {
+    content: "\1F465"
+}
+
+.ss-usergroup.right:after,
+.ss-usergroup:before {
+    content: "\E400"
+}
+
+.ss-businessuser.right:after,
+.ss-businessuser:before {
+    content: "\E407"
+}
+
+.ss-man.right:after,
+.ss-man:before {
+    content: "\1F468"
+}
+
+.ss-male.right:after,
+.ss-male:before {
+    content: "\E450"
+}
+
+.ss-woman.right:after,
+.ss-woman:before {
+    content: "\1F469"
+}
+
+.ss-female.right:after,
+.ss-female:before {
+    content: "\E451"
+}
+
+.ss-raisedhand.right:after,
+.ss-raisedhand:before {
+    content: "\270B"
+}
+
+.ss-hand.right:after,
+.ss-hand:before {
+    content: "\E410"
+}
+
+.ss-pointup.right:after,
+.ss-pointup:before {
+    content: "\1F446"
+}
+
+.ss-pointupright.right:after,
+.ss-pointupright:before {
+    content: "\F510"
+}
+
+.ss-pointright.right:after,
+.ss-pointright:before {
+    content: "\1F449"
+}
+
+.ss-pointdownright.right:after,
+.ss-pointdownright:before {
+    content: "\F511"
+}
+
+.ss-pointdown.right:after,
+.ss-pointdown:before {
+    content: "\1F447"
+}
+
+.ss-pointdownleft.right:after,
+.ss-pointdownleft:before {
+    content: "\F512"
+}
+
+.ss-pointleft.right:after,
+.ss-pointleft:before {
+    content: "\1F448"
+}
+
+.ss-pointupleft.right:after,
+.ss-pointupleft:before {
+    content: "\F513"
+}
+
+.ss-cart.right:after,
+.ss-cart:before {
+    content: "\E500"
+}
+
+.ss-creditcard.right:after,
+.ss-creditcard:before {
+    content: "\1F4B3"
+}
+
+.ss-calculator.right:after,
+.ss-calculator:before {
+    content: "\E551"
+}
+
+.ss-barchart.right:after,
+.ss-barchart:before {
+    content: "\1F4CA"
+}
+
+.ss-piechart.right:after,
+.ss-piechart:before {
+    content: "\E570"
+}
+
+.ss-box.right:after,
+.ss-box:before {
+    content: "\1F4E6"
+}
+
+.ss-home.right:after,
+.ss-home:before {
+    content: "\2302"
+}
+
+.ss-globe.right:after,
+.ss-globe:before {
+    content: "\1F30E"
+}
+
+.ss-navigate.right:after,
+.ss-navigate:before {
+    content: "\E670"
+}
+
+.ss-compass.right:after,
+.ss-compass:before {
+    content: "\E671"
+}
+
+.ss-signpost.right:after,
+.ss-signpost:before {
+    content: "\E672"
+}
+
+.ss-location.right:after,
+.ss-location:before {
+    content: "\E6D0"
+}
+
+.ss-floppydisk.right:after,
+.ss-floppydisk:before {
+    content: "\1F4BE"
+}
+
+.ss-database.right:after,
+.ss-database:before {
+    content: "\E7A0"
+}
+
+.ss-hdd.right:after,
+.ss-hdd:before {
+    content: "\E7B0"
+}
+
+.ss-microchip.right:after,
+.ss-microchip:before {
+    content: "\E7C0"
+}
+
+.ss-music.right:after,
+.ss-music:before {
+    content: "\266B"
+}
+
+.ss-headphones.right:after,
+.ss-headphones:before {
+    content: "\1F3A7"
+}
+
+.ss-discdrive.right:after,
+.ss-discdrive:before {
+    content: "\EA42"
+}
+
+.ss-volume.right:after,
+.ss-volume:before {
+    content: "\1F508"
+}
+
+.ss-lowvolume.right:after,
+.ss-lowvolume:before {
+    content: "\1F509"
+}
+
+.ss-mediumvolume.right:after,
+.ss-mediumvolume:before {
+    content: "\E803"
+}
+
+.ss-highvolume.right:after,
+.ss-highvolume:before {
+    content: "\1F50A"
+}
+
+.ss-airplay.right:after,
+.ss-airplay:before {
+    content: "\E800"
+}
+
+.ss-camera.right:after,
+.ss-camera:before {
+    content: "\1F4F7"
+}
+
+.ss-picture.right:after,
+.ss-picture:before {
+    content: "\1F304"
+}
+
+.ss-video.right:after,
+.ss-video:before {
+    content: "\1F4F9"
+}
+
+.ss-webcam.right:after,
+.ss-webcam:before {
+    content: "\EA41"
+}
+
+.ss-film.right:after,
+.ss-film:before {
+    content: "\E8B0"
+}
+
+.ss-playvideo.right:after,
+.ss-playvideo:before {
+    content: "\E8A1"
+}
+
+.ss-videogame.right:after,
+.ss-videogame:before {
+    content: "\1F3AE"
+}
+
+.ss-play.right:after,
+.ss-play:before {
+    content: "\25B6"
+}
+
+.ss-pause.right:after,
+.ss-pause:before {
+    content: "\E8A0"
+}
+
+.ss-stop.right:after,
+.ss-stop:before {
+    content: "\25A0"
+}
+
+.ss-record.right:after,
+.ss-record:before {
+    content: "\25CF"
+}
+
+.ss-rewind.right:after,
+.ss-rewind:before {
+    content: "\23EA"
+}
+
+.ss-fastforward.right:after,
+.ss-fastforward:before {
+    content: "\23E9"
+}
+
+.ss-skipback.right:after,
+.ss-skipback:before {
+    content: "\23EE"
+}
+
+.ss-skipforward.right:after,
+.ss-skipforward:before {
+    content: "\23ED"
+}
+
+.ss-eject.right:after,
+.ss-eject:before {
+    content: "\23CF"
+}
+
+.ss-repeat.right:after,
+.ss-repeat:before {
+    content: "\1F501"
+}
+
+.ss-replay.right:after,
+.ss-replay:before {
+    content: "\21BA"
+}
+
+.ss-shuffle.right:after,
+.ss-shuffle:before {
+    content: "\1F500"
+}
+
+.ss-index.right:after,
+.ss-index:before {
+    content: "\E902"
+}
+
+.ss-storagebox.right:after,
+.ss-storagebox:before {
+    content: "\E901"
+}
+
+.ss-book.right:after,
+.ss-book:before {
+    content: "\1F4D5"
+}
+
+.ss-notebook.right:after,
+.ss-notebook:before {
+    content: "\1F4D3"
+}
+
+.ss-newspaper.right:after,
+.ss-newspaper:before {
+    content: "\1F4F0"
+}
+
+.ss-gridlines.right:after,
+.ss-gridlines:before {
+    content: "\E206"
+}
+
+.ss-rows.right:after,
+.ss-rows:before {
+    content: "\E9A1"
+}
+
+.ss-columns.right:after,
+.ss-columns:before {
+    content: "\E9A2"
+}
+
+.ss-thumbnails.right:after,
+.ss-thumbnails:before {
+    content: "\E9A3"
+}
+
+.ss-mouse.right:after,
+.ss-mouse:before {
+    content: "\EA40"
+}
+
+.ss-usb.right:after,
+.ss-usb:before {
+    content: "\EB86"
+}
+
+.ss-desktop.right:after,
+.ss-desktop:before {
+    content: "\1F4BB"
+}
+
+.ss-laptop.right:after,
+.ss-laptop:before {
+    content: "\EA00"
+}
+
+.ss-tablet.right:after,
+.ss-tablet:before {
+    content: "\EA01"
+}
+
+.ss-smartphone.right:after,
+.ss-smartphone:before {
+    content: "\EA02"
+}
+
+.ss-cell.right:after,
+.ss-cell:before {
+    content: "\1F4F1"
+}
+
+.ss-battery.right:after,
+.ss-battery:before {
+    content: "\1F50B"
+}
+
+.ss-highbattery.right:after,
+.ss-highbattery:before {
+    content: "\EA10"
+}
+
+.ss-mediumbattery.right:after,
+.ss-mediumbattery:before {
+    content: "\EA11"
+}
+
+.ss-lowbattery.right:after,
+.ss-lowbattery:before {
+    content: "\EA12"
+}
+
+.ss-chargingbattery.right:after,
+.ss-chargingbattery:before {
+    content: "\EA14"
+}
+
+.ss-lightbulb.right:after,
+.ss-lightbulb:before {
+    content: "\1F4A1"
+}
+
+.ss-washer.right:after,
+.ss-washer:before {
+    content: "\EA80"
+}
+
+.ss-downloadcloud.right:after,
+.ss-downloadcloud:before {
+    content: "\EB00"
+}
+
+.ss-download.right:after,
+.ss-download:before {
+    content: "\EB01"
+}
+
+.ss-downloadbox.right:after,
+.ss-downloadbox:before {
+    content: "\EB02"
+}
+
+.ss-uploadcloud.right:after,
+.ss-uploadcloud:before {
+    content: "\EB40"
+}
+
+.ss-upload.right:after,
+.ss-upload:before {
+    content: "\EB41"
+}
+
+.ss-uploadbox.right:after,
+.ss-uploadbox:before {
+    content: "\EB42"
+}
+
+.ss-fork.right:after,
+.ss-fork:before {
+    content: "\EB80"
+}
+
+.ss-merge.right:after,
+.ss-merge:before {
+    content: "\EB81"
+}
+
+.ss-refresh.right:after,
+.ss-refresh:before {
+    content: "\21BB"
+}
+
+.ss-sync.right:after,
+.ss-sync:before {
+    content: "\EB82"
+}
+
+.ss-loading.right:after,
+.ss-loading:before {
+    content: "\EB83"
+}
+
+.ss-file.right:after,
+.ss-file:before {
+    content: "\1F4C4"
+}
+
+.ss-files.right:after,
+.ss-files:before {
+    content: "\EC00"
+}
+
+.ss-addfile.right:after,
+.ss-addfile:before {
+    content: "\EC01"
+}
+
+.ss-removefile.right:after,
+.ss-removefile:before {
+    content: "\EC02"
+}
+
+.ss-checkfile.right:after,
+.ss-checkfile:before {
+    content: "\EC03"
+}
+
+.ss-deletefile.right:after,
+.ss-deletefile:before {
+    content: "\EC04"
+}
+
+.ss-exe.right:after,
+.ss-exe:before {
+    content: "\EC30"
+}
+
+.ss-zip.right:after,
+.ss-zip:before {
+    content: "\EC31"
+}
+
+.ss-doc.right:after,
+.ss-doc:before {
+    content: "\EC32"
+}
+
+.ss-pdf.right:after,
+.ss-pdf:before {
+    content: "\EC34"
+}
+
+.ss-jpg.right:after,
+.ss-jpg:before {
+    content: "\EC35"
+}
+
+.ss-png.right:after,
+.ss-png:before {
+    content: "\EC36"
+}
+
+.ss-mp3.right:after,
+.ss-mp3:before {
+    content: "\EC37"
+}
+
+.ss-rar.right:after,
+.ss-rar:before {
+    content: "\EC38"
+}
+
+.ss-gif.right:after,
+.ss-gif:before {
+    content: "\EC39"
+}
+
+.ss-folder.right:after,
+.ss-folder:before {
+    content: "\1F4C1"
+}
+
+.ss-openfolder.right:after,
+.ss-openfolder:before {
+    content: "\1F4C2"
+}
+
+.ss-downloadfolder.right:after,
+.ss-downloadfolder:before {
+    content: "\EC76"
+}
+
+.ss-uploadfolder.right:after,
+.ss-uploadfolder:before {
+    content: "\EC77"
+}
+
+.ss-quote.right:after,
+.ss-quote:before {
+    content: "\201C"
+}
+
+.ss-unquote.right:after,
+.ss-unquote:before {
+    content: "\201D"
+}
+
+.ss-print.right:after,
+.ss-print:before {
+    content: "\2399"
+}
+
+.ss-copier.right:after,
+.ss-copier:before {
+    content: "\ED42"
+}
+
+.ss-fax.right:after,
+.ss-fax:before {
+    content: "\1F4E0"
+}
+
+.ss-scanner.right:after,
+.ss-scanner:before {
+    content: "\ED43"
+}
+
+.ss-printregistration.right:after,
+.ss-printregistration:before {
+    content: "\ED44"
+}
+
+.ss-shredder.right:after,
+.ss-shredder:before {
+    content: "\ED40"
+}
+
+.ss-expand.right:after,
+.ss-expand:before {
+    content: "\2922"
+}
+
+.ss-contract.right:after,
+.ss-contract:before {
+    content: "\EE01"
+}
+
+.ss-help.right:after,
+.ss-help:before {
+    content: "\2753"
+}
+
+.ss-info.right:after,
+.ss-info:before {
+    content: "\2139"
+}
+
+.ss-alert.right:after,
+.ss-alert:before {
+    content: "\26A0"
+}
+
+.ss-caution.right:after,
+.ss-caution:before {
+    content: "\26D4"
+}
+
+.ss-logout.right:after,
+.ss-logout:before {
+    content: "\EE02"
+}
+
+.ss-login.right:after,
+.ss-login:before {
+    content: "\EE03"
+}
+
+.ss-scaleup.right:after,
+.ss-scaleup:before {
+    content: "\EE04"
+}
+
+.ss-scaledown.right:after,
+.ss-scaledown:before {
+    content: "\EE05"
+}
+
+.ss-plus.right:after,
+.ss-plus:before {
+    content: "+"
+}
+
+.ss-hyphen.right:after,
+.ss-hyphen:before {
+    content: "-"
+}
+
+.ss-check.right:after,
+.ss-check:before {
+    content: "\2713"
+}
+
+.ss-delete.right:after,
+.ss-delete:before {
+    content: "\2421"
+}
+
+.ss-notifications.right:after,
+.ss-notifications:before {
+    content: "\1F514"
+}
+
+.ss-notificationsdisabled.right:after,
+.ss-notificationsdisabled:before {
+    content: "\1F515"
+}
+
+.ss-clock.right:after,
+.ss-clock:before {
+    content: "\23F2"
+}
+
+.ss-stopwatch.right:after,
+.ss-stopwatch:before {
+    content: "\23F1"
+}
+
+.ss-alarmclock.right:after,
+.ss-alarmclock:before {
+    content: "\23F0"
+}
+
+.ss-egg.right:after,
+.ss-egg:before {
+    content: "\F100"
+}
+
+.ss-eggs.right:after,
+.ss-eggs:before {
+    content: "\F107"
+}
+
+.ss-cheese.right:after,
+.ss-cheese:before {
+    content: "\F101"
+}
+
+.ss-chickenleg.right:after,
+.ss-chickenleg:before {
+    content: "\1F357"
+}
+
+.ss-pizzapie.right:after,
+.ss-pizzapie:before {
+    content: "\EFE0"
+}
+
+.ss-pizza.right:after,
+.ss-pizza:before {
+    content: "\1F355"
+}
+
+.ss-cheesepizza.right:after,
+.ss-cheesepizza:before {
+    content: "\EFE1"
+}
+
+.ss-frenchfries.right:after,
+.ss-frenchfries:before {
+    content: "\1F35F"
+}
+
+.ss-apple.right:after,
+.ss-apple:before {
+    content: "\1F34F"
+}
+
+.ss-carrot.right:after,
+.ss-carrot:before {
+    content: "\F111"
+}
+
+.ss-broccoli.right:after,
+.ss-broccoli:before {
+    content: "\F117"
+}
+
+.ss-cucumber.right:after,
+.ss-cucumber:before {
+    content: "\F116"
+}
+
+.ss-orange.right:after,
+.ss-orange:before {
+    content: "\1F34A"
+}
+
+.ss-lemon.right:after,
+.ss-lemon:before {
+    content: "\1F34B"
+}
+
+.ss-onion.right:after,
+.ss-onion:before {
+    content: "\F115"
+}
+
+.ss-bellpepper.right:after,
+.ss-bellpepper:before {
+    content: "\F114"
+}
+
+.ss-peas.right:after,
+.ss-peas:before {
+    content: "\F112"
+}
+
+.ss-grapes.right:after,
+.ss-grapes:before {
+    content: "\1F347"
+}
+
+.ss-strawberry.right:after,
+.ss-strawberry:before {
+    content: "\1F353"
+}
+
+.ss-bread.right:after,
+.ss-bread:before {
+    content: "\1F35E"
+}
+
+.ss-mug.right:after,
+.ss-mug:before {
+    content: "\2615"
+}
+
+.ss-mugs.right:after,
+.ss-mugs:before {
+    content: "\F12B"
+}
+
+.ss-espresso.right:after,
+.ss-espresso:before {
+    content: "\EFF0"
+}
+
+.ss-macchiato.right:after,
+.ss-macchiato:before {
+    content: "\EFF1"
+}
+
+.ss-cappucino.right:after,
+.ss-cappucino:before {
+    content: "\EFF2"
+}
+
+.ss-latte.right:after,
+.ss-latte:before {
+    content: "\EFF3"
+}
+
+.ss-icedcoffee.right:after,
+.ss-icedcoffee:before {
+    content: "\EFF4"
+}
+
+.ss-coffeebean.right:after,
+.ss-coffeebean:before {
+    content: "\EFF5"
+}
+
+.ss-coffeemilk.right:after,
+.ss-coffeemilk:before {
+    content: "\EFF6"
+}
+
+.ss-coffeefoam.right:after,
+.ss-coffeefoam:before {
+    content: "\EFF7"
+}
+
+.ss-coffeesugar.right:after,
+.ss-coffeesugar:before {
+    content: "\EFF8"
+}
+
+.ss-sugarpackets.right:after,
+.ss-sugarpackets:before {
+    content: "\F135"
+}
+
+.ss-capsule.right:after,
+.ss-capsule:before {
+    content: "\EFF9"
+}
+
+.ss-capsulerecycling.right:after,
+.ss-capsulerecycling:before {
+    content: "\EFFA"
+}
+
+.ss-insertcapsule.right:after,
+.ss-insertcapsule:before {
+    content: "\EFFB"
+}
+
+.ss-tea.right:after,
+.ss-tea:before {
+    content: "\1F375"
+}
+
+.ss-teabag.right:after,
+.ss-teabag:before {
+    content: "\EFFC"
+}
+
+.ss-jug.right:after,
+.ss-jug:before {
+    content: "\F126"
+}
+
+.ss-pitcher.right:after,
+.ss-pitcher:before {
+    content: "\F19B"
+}
+
+.ss-kettle.right:after,
+.ss-kettle:before {
+    content: "\F19C"
+}
+
+.ss-wineglass.right:after,
+.ss-wineglass:before {
+    content: "\1F377"
+}
+
+.ss-sugar.right:after,
+.ss-sugar:before {
+    content: "\F134"
+}
+
+.ss-oven.right:after,
+.ss-oven:before {
+    content: "\F140"
+}
+
+.ss-stove.right:after,
+.ss-stove:before {
+    content: "\F141"
+}
+
+.ss-vent.right:after,
+.ss-vent:before {
+    content: "\F143"
+}
+
+.ss-exhaust.right:after,
+.ss-exhaust:before {
+    content: "\F144"
+}
+
+.ss-steam.right:after,
+.ss-steam:before {
+    content: "\2668"
+}
+
+.ss-dishwasher.right:after,
+.ss-dishwasher:before {
+    content: "\F192"
+}
+
+.ss-toaster.right:after,
+.ss-toaster:before {
+    content: "\F193"
+}
+
+.ss-microwave.right:after,
+.ss-microwave:before {
+    content: "\F194"
+}
+
+.ss-electrickettle.right:after,
+.ss-electrickettle:before {
+    content: "\F195"
+}
+
+.ss-refrigerator.right:after,
+.ss-refrigerator:before {
+    content: "\F196"
+}
+
+.ss-freezer.right:after,
+.ss-freezer:before {
+    content: "\F197"
+}
+
+.ss-utensils.right:after,
+.ss-utensils:before {
+    content: "\1F374"
+}
+
+.ss-cookingutensils.right:after,
+.ss-cookingutensils:before {
+    content: "\F151"
+}
+
+.ss-whisk.right:after,
+.ss-whisk:before {
+    content: "\F152"
+}
+
+.ss-pizzacutter.right:after,
+.ss-pizzacutter:before {
+    content: "\F153"
+}
+
+.ss-measuringcup.right:after,
+.ss-measuringcup:before {
+    content: "\F162"
+}
+
+.ss-colander.right:after,
+.ss-colander:before {
+    content: "\F163"
+}
+
+.ss-eggtimer.right:after,
+.ss-eggtimer:before {
+    content: "\F165"
+}
+
+.ss-platter.right:after,
+.ss-platter:before {
+    content: "\F166"
+}
+
+.ss-plates.right:after,
+.ss-plates:before {
+    content: "\F167"
+}
+
+.ss-steamplate.right:after,
+.ss-steamplate:before {
+    content: "\F198"
+}
+
+.ss-cups.right:after,
+.ss-cups:before {
+    content: "\F12A"
+}
+
+.ss-steamglass.right:after,
+.ss-steamglass:before {
+    content: "\F199"
+}
+
+.ss-pot.right:after,
+.ss-pot:before {
+    content: "\F168"
+}
+
+.ss-steampot.right:after,
+.ss-steampot:before {
+    content: "\F19A"
+}
+
+.ss-chef.right:after,
+.ss-chef:before {
+    content: "\F172"
+}
+
+.ss-weathervane.right:after,
+.ss-weathervane:before {
+    content: "\F200"
+}
+
+.ss-thermometer.right:after,
+.ss-thermometer:before {
+    content: "\F201"
+}
+
+.ss-thermometerup.right:after,
+.ss-thermometerup:before {
+    content: "\F203"
+}
+
+.ss-thermometerdown.right:after,
+.ss-thermometerdown:before {
+    content: "\F204"
+}
+
+.ss-droplet.right:after,
+.ss-droplet:before {
+    content: "\1F4A7"
+}
+
+.ss-sunrise.right:after,
+.ss-sunrise:before {
+    content: "\1F305"
+}
+
+.ss-sunset.right:after,
+.ss-sunset:before {
+    content: "\1F307"
+}
+
+.ss-sun.right:after,
+.ss-sun:before {
+    content: "\2600"
+}
+
+.ss-cloud.right:after,
+.ss-cloud:before {
+    content: "\2601"
+}
+
+.ss-clouds.right:after,
+.ss-clouds:before {
+    content: "\F220"
+}
+
+.ss-partlycloudy.right:after,
+.ss-partlycloudy:before {
+    content: "\26C5"
+}
+
+.ss-rain.right:after,
+.ss-rain:before {
+    content: "\2614"
+}
+
+.ss-rainheavy.right:after,
+.ss-rainheavy:before {
+    content: "\F224"
+}
+
+.ss-lightning.right:after,
+.ss-lightning:before {
+    content: "\2607"
+}
+
+.ss-thunderstorm.right:after,
+.ss-thunderstorm:before {
+    content: "\26C8"
+}
+
+.ss-umbrella.right:after,
+.ss-umbrella:before {
+    content: "\2602"
+}
+
+.ss-rainumbrella.right:after,
+.ss-rainumbrella:before {
+    content: "\F270"
+}
+
+.ss-rainbow.right:after,
+.ss-rainbow:before {
+    content: "\1F308"
+}
+
+.ss-rainbowclouds.right:after,
+.ss-rainbowclouds:before {
+    content: "\F214"
+}
+
+.ss-fog.right:after,
+.ss-fog:before {
+    content: "\F211"
+}
+
+.ss-wind.right:after,
+.ss-wind:before {
+    content: "\F212"
+}
+
+.ss-tornado.right:after,
+.ss-tornado:before {
+    content: "\F213"
+}
+
+.ss-snowflake.right:after,
+.ss-snowflake:before {
+    content: "\2744"
+}
+
+.ss-snowcrystal.right:after,
+.ss-snowcrystal:before {
+    content: "\2746"
+}
+
+.ss-lightsnow.right:after,
+.ss-lightsnow:before {
+    content: "\F230"
+}
+
+.ss-snow.right:after,
+.ss-snow:before {
+    content: "\F231"
+}
+
+.ss-heavysnow.right:after,
+.ss-heavysnow:before {
+    content: "\F232"
+}
+
+.ss-hail.right:after,
+.ss-hail:before {
+    content: "\F244"
+}
+
+.ss-crescentmoon.right:after,
+.ss-crescentmoon:before {
+    content: "\1F319"
+}
+
+.ss-waxingcrescentmoon.right:after,
+.ss-waxingcrescentmoon:before {
+    content: "\1F312"
+}
+
+.ss-firstquartermoon.right:after,
+.ss-firstquartermoon:before {
+    content: "\1F313"
+}
+
+.ss-waxinggibbousmoon.right:after,
+.ss-waxinggibbousmoon:before {
+    content: "\1F314"
+}
+
+.ss-waninggibbousmoon.right:after,
+.ss-waninggibbousmoon:before {
+    content: "\1F316"
+}
+
+.ss-lastquartermoon.right:after,
+.ss-lastquartermoon:before {
+    content: "\1F317"
+}
+
+.ss-waningcrescentmoon.right:after,
+.ss-waningcrescentmoon:before {
+    content: "\1F318"
+}
+
+.ss-fan.right:after,
+.ss-fan:before {
+    content: "\F280"
+}
+
+.ss-bike.right:after,
+.ss-bike:before {
+    content: "\1F6B2"
+}
+
+.ss-wheelchair.right:after,
+.ss-wheelchair:before {
+    content: "\267F"
+}
+
+.ss-briefcase.right:after,
+.ss-briefcase:before {
+    content: "\1F4BC"
+}
+
+.ss-hanger.right:after,
+.ss-hanger:before {
+    content: "\F1A0"
+}
+
+.ss-comb.right:after,
+.ss-comb:before {
+    content: "\F1A1"
+}
+
+.ss-medicalcross.right:after,
+.ss-medicalcross:before {
+    content: "\F4B0"
+}
+
+.ss-up.right:after,
+.ss-up:before {
+    content: "\2B06"
+}
+
+.ss-upright.right:after,
+.ss-upright:before {
+    content: "\2B08"
+}
+
+.ss-right.right:after,
+.ss-right:before {
+    content: "\27A1"
+}
+
+.ss-downright.right:after,
+.ss-downright:before {
+    content: "\2B0A"
+}
+
+.ss-down.right:after,
+.ss-down:before {
+    content: "\2B07"
+}
+
+.ss-downleft.right:after,
+.ss-downleft:before {
+    content: "\2B0B"
+}
+
+.ss-left.right:after,
+.ss-left:before {
+    content: "\2B05"
+}
+
+.ss-upleft.right:after,
+.ss-upleft:before {
+    content: "\2B09"
+}
+
+.ss-navigateup.right:after,
+.ss-navigateup:before {
+    content: "\F500"
+}
+
+.ss-navigateright.right:after,
+.ss-navigateright:before {
+    content: "\25BB"
+}
+
+.ss-navigatedown.right:after,
+.ss-navigatedown:before {
+    content: "\F501"
+}
+
+.ss-navigateleft.right:after,
+.ss-navigateleft:before {
+    content: "\25C5"
+}
+
+.ss-retweet.right:after,
+.ss-retweet:before {
+    content: "\F600"
+}
+
+.ss-share.right:after,
+.ss-share:before {
+    content: "\F601"
+}

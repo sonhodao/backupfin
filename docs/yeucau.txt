@@ -1,0 +1,13 @@
+
+1. Website chưa có nút tìm kiếm (*Nằm trong mục 2.6 trong checklist mà team gửi)
+
+2. Banner: Bên em thử tạo banner thì thấy lỗi, banner ko hiển thị trên trang, anh Đức check lại giúp em với ạ. Banner trong quá trình làm lại giao diện mình đã thay đổi, vì thế kế hoạch đặt banner mới mình sẽ điều chỉnh lại. Em sẽ note lại phần chỉnh sửa với anh Đức để anh em mình cùng hoàn thiện nha.
+
+
+3. Font và size chữ: Về vấn đề này, team em vẫn giữ quan điểm muốn admin có quyền tùy chỉnh font và size chữ. Anh xem có thể xử lý vấn đề này giúp bên em không ạ? Team em sẽ gửi bộ font mới cho bên mình update trên web, nếu không có phương án xử lý tốt hơn ạ.
+
+
+4. Hiệu ứng website: Em thấy hiện tại web của mình khá đơn giản vì chưa có hiệu ứng trên web. Em muốn webiste sinh động hơn bằng một số hiệu ứng chuyển động box và chữ đơn giản như website của VNDirect. Không biết team anh Đức có thể bổ sung phần này giúp team em không ạ?
+
+
+5. Về trang con và bài viết: Cái này bên em thời gian vừa rồi chưa kịp làm kĩ vì cuối năm nhiều dự án, và web vừa làm vừa điều chỉnh nên có một số nội dung chốt muộn ạ. Em xin phép ngày kia gửi layout trang con cho bên mình điều chỉnh có được không ạ? Giống như giao diện của homepage, bên em sẽ chỉ layout lại một chút cho user dễ nhìn và dễ sử dụng hơn thôi. Vấn đề này anh Đức và team hỗ trợ bên em nha.

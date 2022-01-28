@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /search/suggest
+Disallow: /search/suggest?q=*
+Sitemap: https://finvn.vn/sitemap.xml
